@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "daa50a03fd59b696",
+    "type": "split",
+    "children": [
+      {
+        "id": "2791d2ec2e3da7ab",
+        "type": "tabs",
+        "dimension": 68.35443037974683,
+        "children": [
+          {
+            "id": "3e7168b437e612c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e59753229fc60b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fambanasi colors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f29d336e29a2578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f7af51a49c1288f3",
+        "type": "tabs",
+        "dimension": 31.64556962025317,
+        "children": [
+          {
+            "id": "819fc4eb01e2d44d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2b84a57a228ec78",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d64d4afffcdc8b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1632e068476c594a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b0711ccdd7a7a0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ec037245670dcda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4f5e096f9debb54",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fc68c0bb3e11e97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "882993ed3a77866c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fambanasi colors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcbed2b1aec3a084",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fambanasi colors.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9e7d258e415d0a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c5b8682ebbf58a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fambanasi colors.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e59753229fc60b14",
+  "lastOpenFiles": [
+    "Arch.md",
+    "Fambanasi colors.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
